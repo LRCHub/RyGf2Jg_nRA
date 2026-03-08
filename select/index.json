@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Why <CCFFVII Mix>",
+  "base_artist": "絢香",
+  "createdAt": "2026-03-08T03:54:42.444076Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Why",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/pl_01_Why_絢香.txt"
+    }
+  ]
+}
